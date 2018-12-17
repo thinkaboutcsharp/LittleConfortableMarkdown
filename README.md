@@ -1,0 +1,2 @@
+# LittleConfortableMarkdown
+静的webを作るのに、普通のMarkdownだと少し面倒な部分を簡単にやりたいので、ツールを作ってみる。
